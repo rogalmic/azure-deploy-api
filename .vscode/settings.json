@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ef288bf6-5b36-4da0-a8fa-5fb3f8aa73a2/resourceGroups/rogalmic-resourcegroup/providers/Microsoft.Web/sites/rogalmic-webapp"
+}
